@@ -16,9 +16,7 @@ router.post("/saveComment", (req, res) => {
     })
 })
 
-router.get("/getComments", (req, res) => {
 
-})
 
 
 
